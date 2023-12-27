@@ -8,6 +8,7 @@ We implemented the various functionalities spread across different assignments.
 
 This assignment was mostly to familiarise ourselves with xv6. We defined a basic system call for our mini OS.
 The output-
+
 ![image](https://github.com/soham976roy/Operating-Systems-Lab/assets/83572390/5d8417f7-5a80-4e0c-84f0-e790d72fc447)
 
 ## Assignment 1
